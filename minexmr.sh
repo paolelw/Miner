@@ -19,3 +19,5 @@ make -j$(nproc)
 # https://minexmr.com/#worker_stats
 # 币安地址：
 # 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi
+
+# curl -L https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/minexmr.sh |bash
