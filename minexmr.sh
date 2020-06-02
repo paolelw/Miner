@@ -21,5 +21,7 @@ echo "./xmrig --donate-level 1 -o pool.minexmr.com:443 -u 89xFXepSy2iBW1cMgaQwZw
 # https://minexmr.com/#worker_stats
 # 币安地址：
 # 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi
+# liang
+# 89m8QgPtKvCZZyu487FejTRmt4Acc5R6xCwHQsgsvyR8iHkm3VQirfAAauUGZCKMmQ2FLP6mDid9FgQC6HoxiyfwVLfq4jQ
 
 # curl -L https://cdn.jsdelivr.net/gh/gscsnm/Miner@master/minexmr.sh |bash
