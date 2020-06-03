@@ -14,7 +14,10 @@ make -j$(nproc)
 
 #运行
 
+echo "ly"
 echo "./xmrig --donate-level 1 -o pool.minexmr.com:443 -u 89xFXepSy2iBW1cMgaQwZwedkgDvAJcJk7UMyHYy1TsZA9aw9YhYWeobXn5mXQgx9eMduAdFrfXEGJaKEZ43eZWm7xeMCyi -k --tls --rig-id xxx"
+ehco "\n liang"
+echo "./xmrig --donate-level 1 -o pool.minexmr.com:443 -u 89m8QgPtKvCZZyu487FejTRmt4Acc5R6xCwHQsgsvyR8iHkm3VQirfAAauUGZCKMmQ2FLP6mDid9FgQC6HoxiyfwVLfq4jQ -k --tls --rig-id xxx"
 
 
 
